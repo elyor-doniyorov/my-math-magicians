@@ -8,7 +8,7 @@
 
 ## Live demo
 
-TBA
+will be soon
 
 ## Getting Started
 
