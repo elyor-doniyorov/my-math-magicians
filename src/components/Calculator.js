@@ -1,6 +1,6 @@
-import React from "react";
-import "./Calculator.css";
-import calculate from "../logic/calculate";
+import React from 'react';
+import './Calculator.css';
+import calculate from '../logic/calculate';
 
 // eslint-disable-next-line react/prefer-stateless-function
 class Calculator extends React.Component {
@@ -13,6 +13,7 @@ class Calculator extends React.Component {
   handleClick(e) {
     this.setState((state) => calculate(state, e.target.textContent));
   }
+
   render() {
     const { next, total } = this.state;
     return (
