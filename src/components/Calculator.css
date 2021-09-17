@@ -16,8 +16,8 @@
   text-align: right;
 }
 
-.zero-btn {
-  grid-column: 1 /span 2;
+.calc-container > *:nth-child(18) {
+  grid-column: 1 / span 2;
 }
 
 button {
