@@ -28,3 +28,8 @@ button {
 button[class^='orange'] {
   background-color: #f5913e;
 }
+
+.calculate-page {
+  display: flex;
+  margin-left: 1rem;
+}
