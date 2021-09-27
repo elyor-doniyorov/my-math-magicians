@@ -9,7 +9,7 @@
 
 ## Live demo
 
-will be soon
+[Live demo link](https://affectionate-mccarthy-0f6d73.netlify.app)
 
 ## Getting Started
 
@@ -31,6 +31,7 @@ will be soon
 
 - Github: [@elyor-doniyorov](https://github.com/elyor-doniyorov)
 - LinkedIn: [@elyor-doniyorov](www.linkedin.com/in/elyor-doniyorov)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
