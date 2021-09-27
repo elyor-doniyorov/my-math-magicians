@@ -9,6 +9,7 @@
 
 ## Live demo
 
+[Live demo link](https://my--math--magicians.herokuapp.com/)
 [Live demo link](https://affectionate-mccarthy-0f6d73.netlify.app)
 
 ## Getting Started
